@@ -1,0 +1,1 @@
+# ratheswaran-OpenAI-Whisper-For-Finance
